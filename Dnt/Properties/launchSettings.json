@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Dnt": {
+      "commandName": "Project",
+      "commandLineArgs": "bump-versions minor",
+      "workingDirectory": "C:\\Data\\Projects\\NJsonSchema"
+    }
+  }
+}
